@@ -27,6 +27,14 @@ This project highlights strong fundamentals in **Vanilla JavaScript**, focusing 
 
 ---
 
+## 🛠️ Technologies Used
+
+- **HTML5** – Semantic structure
+- **CSS3** – Styling and responsive layout
+- **JavaScript (ES6)** – Application logic and interactivity
+
+---
+
 ## 🖼️ Screenshots
 
 <img width="1916" height="847" alt="image" src="https://github.com/user-attachments/assets/281afcd0-3f10-4cc1-ab4f-2853e650f63c" />
