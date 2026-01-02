@@ -21,14 +21,26 @@ This project highlights strong fundamentals in **Vanilla JavaScript**, focusing 
 
 ## ✨ Features
 
-- Login system
-- Password validation using Regular Expressions (Regex)
 - Display products with price
 - Add items to the shopping cart
 - Increase or decrease product quantities
 - Remove items from the cart
 - Responsive and clean user interface
 
+
+---
+
+## 🔐 Login System
+
+- Login form with **username and password**
+- Password validation using **Regular Expressions (Regex)**:
+  - Minimum **8 characters**
+  - At least **one uppercase letter**
+  - At least **one lowercase letter**
+  - At least **one special character**
+- Login status is saved using **Local Storage**
+- User remains logged in even after page refresh
+- Logout functionality available
 
 ---
 
